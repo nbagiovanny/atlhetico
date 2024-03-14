@@ -36,4 +36,14 @@ display:flex;
 
 .secao-div{
 width: 35%;
+
+}
+
+.secao-h2{
+    padding: 24px 0;
+}
+
+.secao-img{
+  width: 20%;
+
 }
