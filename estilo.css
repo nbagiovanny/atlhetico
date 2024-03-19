@@ -30,7 +30,7 @@ display:flex;
 .secao1{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     padding:24px 0;
 }
 
