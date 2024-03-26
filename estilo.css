@@ -50,7 +50,8 @@ width: 35%;
 }
 
 .secao2{
-background-color: #C92929;
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(255,0,0,1) 100%);
 text-align: center;
 font-size: 30px;
 color: rgb(255, 255, 255);
