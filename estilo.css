@@ -58,7 +58,7 @@ color: rgb(255, 255, 255);
 
 }
 
-.secao2-jogadores-athletico-pr{
+.secao2-todos-os-jogadores{
 display:grid;
 grid-template-columns: 25% 25% 25% 25%;
 
