@@ -48,3 +48,18 @@ width: 35%;
   
 
 }
+
+.secao2{
+background-color: red;
+text-align: center;
+font-size: 30px;
+color: blueviolet;
+
+}
+
+.secao2-jogadores-athletico-pr{
+display:grid;
+grid-template-columns: 25% 25% 25% 25%;
+
+
+}
