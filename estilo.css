@@ -64,3 +64,8 @@ grid-template-columns: 25% 25% 25% 25%;
 padding-top: 30px;
 
 }
+
+.rodape{
+    background-color: black;
+    text-align: center;
+}
